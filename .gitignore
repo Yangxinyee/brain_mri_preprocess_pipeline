@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment
+.env
+.venv
+env/
+venv/
+*.egg-info/
+
+# Data (exclude large or sensitive data)
+data_preprocess/
+*.nii.gz
+*.dcm
+
+# OS
+.DS_Store
+Thumbs.db
+
+4.18.odp
